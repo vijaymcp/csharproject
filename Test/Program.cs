@@ -15,7 +15,6 @@ namespace Test
             Inprogress = 2,
             ReAssign = 3,
             Closed = 4
-
         }
         static void Main(string[] args)
         {
